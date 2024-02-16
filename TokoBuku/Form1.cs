@@ -52,6 +52,13 @@ namespace TokoBuku
                 Home home = new Home();
                 home.Show();
             }
+
+            else if (dtbl.Rows[0][1].ToString() == "2")
+            {
+                this.Hide();
+                Home home = new Home();
+                home.Show();
+            }
             
             else
             {

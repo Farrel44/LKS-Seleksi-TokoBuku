@@ -154,8 +154,8 @@
             this.numericUpDown2.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.numericUpDown2.Location = new System.Drawing.Point(105, 77);
             this.numericUpDown2.Maximum = new decimal(new int[] {
-            1215752192,
-            23,
+            100000000,
+            0,
             0,
             0});
             this.numericUpDown2.Name = "numericUpDown2";
